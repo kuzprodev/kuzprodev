@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front-end developer 👨‍💻 from Ukraine, who is in constant development. Constant
     professional and personal development is my position in life.</h3>
 
-- 👨‍💻 All of my projects are available at [kuzprodev]
+- 👨‍💻 All of my projects are available at [kuzprodev](../https://kuzprodev.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
