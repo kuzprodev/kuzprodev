@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kostiantyn Kuznietsov</h1>
-<h3 align="center">I'm Vlad, a passionate Front-end developer 👨‍💻 from Ukraine, who is in constant development. Constant professional and personal development is my position in life.</h3>
+<h3 align="center">A passionate Front-end developer 👨‍💻 from Ukraine, who is in constant development. Constant professional and personal development is my position in life.</h3>
 
 - 👨‍💻 All of my projects are available at [kuzprodev.com](kuzprodev.com)
 
