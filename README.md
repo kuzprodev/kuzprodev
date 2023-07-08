@@ -3,6 +3,9 @@
     professional and personal development is my position in life.</h3>
 
 <!-- - 👨‍💻 All of my projects are available at [kuzprodev]() -->
+- 👨‍💻 All of my projects are available at [https://kuzprodev.com/](https://kuzprodev.com/)
+
+- 📫 How to reach me **kuzprodev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
