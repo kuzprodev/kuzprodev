@@ -3,7 +3,7 @@
     professional and personal development is my position in life.</h3>
 
 <!-- - 👨‍💻 All of my projects are available at [kuzprodev]() -->
-- 👨‍💻 All of my projects are available at [https://kuzprodev.com/](https://kuzprodev.com/)
+- 👨‍💻 All of my projects are available at https://kuzprodev.github.io/portfolio/index.html
 
 - 📫 How to reach me **kuzprodev@gmail.com**
 
