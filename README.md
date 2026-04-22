@@ -1,149 +1,72 @@
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Kuzprodev&fontSize=40&fontColor=ffffff"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Kostiantyn Kuznietsov</h1>
-<h3 align="center">A passionate Front-end developer 👨‍💻 from Ukraine, who is in constant development. Constant
-    professional and personal development is my position in life.</h3>
+<h3 align="center">Frontend Developer from Ukraine 🇺🇦</h3>
 
-<!-- - 👨‍💻 All of my projects are available at [kuzprodev]() -->
-- 👨‍💻 All of my projects are available at [https://kuzprodev.github.io/portfolio/index.html]
+---
 
-- 📫 How to reach me **kuzprodev@gmail.com**
+<!-- ABOUT -->
+<p align="center">
+🚀 I build modern, responsive web apps <br/>
+💡 Focused on UI/UX and performance <br/>
+📚 Always learning and improving
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<!-- <p align="left">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/kuzprodev/" target="blank" style="display:inline-block"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/kuzprodev/" height="30" width="40" /></a>
-    <a href="https://fb.com/https://www.facebook.com/kuzprodev/" target="blank" style="display:inline-block"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="https://www.facebook.com/kuzprodev/" height="30" width="40" /></a>
-    <a href="https://instagram.com/https://www.instagram.com/kuzprodev/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="https://www.instagram.com/kuzprodev/" height="30" width="40" /></a>
-    <a href="https://codepen.io/kuzprodev" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-            alt="https://codepen.io/kuzprodev" height="30" width="40" /></a>
+---
 
+<!-- SOCIALS -->
+<h3 align="center">Connect with me</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kuzprodev/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://www.facebook.com/kuzprodev/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/kuzprodev/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+  <a href="https://codepen.io/kuzprodev">
+    <img src="https://skillicons.dev/icons?i=codepen" height="40"/>
+  </a>
+</p>
 
-    
-</p> -->
+---
 
-<table cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;">
-  <tr>
-    <td align="center">
-        <a href="https://www.linkedin.com/in/kuzprodev/" target="blank" style="display:inline-block"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/kuzprodev/" height="30" width="40" /></a>
-    </td>
-    <td align="center">
-     <a href="https://www.facebook.com/kuzprodev/" target="blank" style="display:inline-block"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="https://www.facebook.com/kuzprodev/" height="30" width="40" /></a>
-    </td>
-    <td align="center">
-     <a href="https://www.instagram.com/kuzprodev/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="https://www.instagram.com/kuzprodev/" height="30" width="40" /></a>
-    </td>
-    <td align="center">
-      <a href="https://codepen.io/kuzprodev" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-            alt="https://codepen.io/kuzprodev" height="30" width="40" /></a>
-    </td>
-  </tr>
-</table>
+<!-- STACK -->
+<h3 align="center">Tech Stack</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<table cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;">
-    <tr>
-    <td align="center">
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a>
-    </td>
-           <td align="center">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /></a>
-    </td>
-                  <td align="center">
-       <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-                width="40" height="40" /> </a>
-    </td>
-        
-                  <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" />
-    </a>
-    </td>     
-    
-    <td align="center">
-        <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp"
-            width="40" height="40" /> </a>
-    </td>  
-    
-    
-    <td align="center">
-     <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-            alt="webpack" width="40" height="40" /> </a>
-    </td>     
-    
-    <td align="center">
-       <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" /> </a>
-    </td>   
-    
-    <td align="center">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-    </td>        <td align="center">
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a>
-    </td>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,redux,tailwind,bootstrap,webpack,gulp,babel,git,figma,ps&perline=7"/>
+</p>
 
+---
 
+<!-- STATS -->
+<h3 align="center">GitHub Stats</h3>
 
-<td align="center">
-         <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
-            width="40" height="40" /> </a>
-    </td>
-    <td align="center">
-      <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"
-            alt="materialize" width="40" height="40" /> </a>
-    </td>
-    
-    <td align="center">
-       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-    </td><td align="center">
-            <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-    </td><td align="center">
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a> 
-    </td>
-    <td align="center">
-           <a
-        href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop" width="40" height="40" /> </a>    
-    </td>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kuzprodev&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=kuzprodev&theme=tokyonight&hide_border=true"/>
+</p>
 
+---
 
-    </tr>
+<!-- PROJECTS -->
+<h3 align="center">Portfolio</h3>
 
-  
+<p align="center">
+  🌐 <a href="https://kuzprodev.github.io/portfolio/index.html">View my projects</a>
+</p>
 
-   
- 
-   
+---
 
-   
-          
-       
-        
-</table>
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=120&section=footer"/>
+</p>
