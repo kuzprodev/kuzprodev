@@ -8,7 +8,7 @@
 - 📫 How to reach me **kuzprodev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="display:flex;gap:10px">
+<!-- <p align="left">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/kuzprodev/" target="blank" style="display:inline-block"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="https://www.linkedin.com/in/kuzprodev/" height="30" width="40" /></a>
@@ -21,7 +21,36 @@
     <a href="https://codepen.io/kuzprodev" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
             alt="https://codepen.io/kuzprodev" height="30" width="40" /></a>
-</p>
+
+
+
+    
+</p> -->
+
+<table style="border-collapse: collapse;">
+  <tr>
+    <td align="center" style="border: none;">
+        <a href="https://linkedin.com/in/https://www.linkedin.com/in/kuzprodev/" target="blank" style="display:inline-block"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="https://www.linkedin.com/in/kuzprodev/" height="30" width="40" /></a>
+    </td>
+    <td align="center" style="border: none;">
+     <a href="https://fb.com/https://www.facebook.com/kuzprodev/" target="blank" style="display:inline-block"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+            alt="https://www.facebook.com/kuzprodev/" height="30" width="40" /></a>
+    </td>
+    <td align="center" style="border: none;">
+     <a href="https://instagram.com/https://www.instagram.com/kuzprodev/" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="https://www.instagram.com/kuzprodev/" height="30" width="40" /></a>
+    </td>
+    <td align="center" style="border: none;">
+      <a href="https://codepen.io/kuzprodev" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
+            alt="https://codepen.io/kuzprodev" height="30" width="40" /></a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="display:flex;gap:10px">
